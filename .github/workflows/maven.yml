@@ -21,6 +21,6 @@ jobs:
       with:
         java-version: 1.8
     - name: Get Folder
-      run: cd ..
-    - name: Get Folder 2
+      run: cd /home
+    - name: Get Folder
       run: ls
